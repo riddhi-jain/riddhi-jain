@@ -3,12 +3,12 @@
 <img align="right" height="220px" width="350px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
 <p align="left">
   
-- 👩‍🎓 20 yo, competitive programmer
+- 👩‍🎓 I'm 20 yo, competitive programmer
 - 💪 Join me to derive most efficient solutions to problems.
 - 💻 1649 (3⭐ CODECHEF) [@reu21](https://www.codechef.com/users/reu21)
-- 🌱 currently learning Machine Learning Algorithms/Deep Learning.
-- 🔭 currently working on Personal Projects.
-- 👯 looking to collaborate on ML projects.
+- 🌱 I'm currently learning Machine Learning Algorithms/Deep Learning.
+- 🔭 I'm currently working on Personal Projects.
+- 👯 I'm looking to collaborate on ML projects.
 - 💬 Talk to me about model building, algorithm selection, model deployment, efficient data visualization and [Tableau](https://public.tableau.com/profile/riddhi.jain6841#!/).
 - 📝 Here is my [Resume](https://drive.google.com/file/d/1mT9ILuRMegQPv1aYwwUJP5L59T-RoBTb/view?usp=sharing) for reference.
 - 📫 Let us connect at: [LinkedIn](https://www.linkedin.com/in/riddhii/)
