@@ -15,11 +15,14 @@
   &nbsp;
 
 
-## A code is more than bytes in a file
+## 🟩 A code is more than bytes in a file 🟩
 
 
-<p>
-<img align="right" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-jain&layout=compact" alt="image" />
 
-<img align="left" img src="https://github-readme-stats.vercel.app/api?username=riddhi-jain&theme=radical&show_icons=true" alt="image" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=riddhi-jain&theme=radical&show_icons=true" alt="image" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-jain&layout=compact" alt="image" />
 </p>
