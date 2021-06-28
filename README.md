@@ -24,5 +24,5 @@
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-jain&layout=compact" alt="image" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-jain&layout=compact&theme=blueberry" alt="image" />
 </p>
