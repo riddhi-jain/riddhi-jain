@@ -30,4 +30,4 @@
 
 <a href="https://www.linkedin.com/in/riddhii/" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@RiddhiJain&color=green&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
 <a href="https://www.github.com/riddhi-jain/" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@riddhi-jain&color=yellow&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
-<a href="mail:jainriddhi2110@gmail.com" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainriddhi2110@gmail.com&label=mail&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainriddhi2110@gmail.com" /> </a>
+<a href="mailto:jainriddhi2110@gmail.com" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainriddhi2110@gmail.com&label=mail&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainriddhi2110@gmail.com" /> </a>
