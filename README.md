@@ -11,7 +11,6 @@
 - 👯 I'm looking to collaborate on ML projects.
 - 💬 Talk to me about model building, algorithm selection, model deployment, efficient data visualization and [Tableau](https://public.tableau.com/profile/riddhi.jain6841#!/).
 - 📝 Here is my [Resume](https://drive.google.com/file/d/1mT9ILuRMegQPv1aYwwUJP5L59T-RoBTb/view?usp=sharing) for reference.
-- 📫 Let us connect at: [LinkedIn](https://www.linkedin.com/in/riddhii/)
   &nbsp;
 
 
@@ -26,3 +25,9 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-jain&layout=compact&theme=blueberry" alt="image" />
 </p>
+
+## 🤝 Connect with me :
+
+<a href="https://www.linkedin.com/in/riddhii/" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@RiddhiJain&color=green&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
+<a href="https://www.github.com/riddhi-jain/" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@riddhi-jain&color=yellow&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
+<a href="mail:jainriddhi2110@gmail.com" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainriddhi2110@gmail.com&label=mail&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainriddhi2110@gmail.com" /> </a>
