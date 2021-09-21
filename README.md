@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on Personal Projects.
 - 👯 I'm looking to collaborate on ML projects.
 - 💬 Talk to me about model building, algorithm selection, model deployment, efficient data visualization and [Tableau](https://public.tableau.com/profile/riddhi.jain6841#!/).
-- 📝 Here is my [Resume](https://drive.google.com/file/d/1ETIjovEZIYIqJKbdL-y7jAkzNdD8bHEq/view?usp=sharing) for reference.
+- 📝 Here is my [Resume](https://drive.google.com/file/d/1rz9iqzF9xwuMNCjlCrTDuunRwuvqwJ6B/view?usp=sharing) for reference.
   &nbsp;  
 
 
