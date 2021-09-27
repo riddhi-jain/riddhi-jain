@@ -3,7 +3,7 @@
 <img align="right" height="220px" width="350px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
 <p align="left">
   
-- 👩‍🎓 I'm 20 yo, competitive programmer
+- 👩‍🎓 I'm 20 yo, problem solver
 - 💪 Join me to derive most efficient solutions to problems.
 - 💻 1649 (3⭐ CODECHEF) [@reu21](https://www.codechef.com/users/reu21)
 - 🌱 I'm currently learning Machine Learning Algorithms/Deep Learning.
