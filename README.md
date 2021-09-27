@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning Machine Learning Algorithms/Deep Learning.
 - 🔭 I'm currently working on Personal Projects.
 - 👯 I'm looking to collaborate on ML projects.
-- 💬 Talk to me about model building, algorithm selection, model deployment, efficient data visualization and [Tableau](https://public.tableau.com/profile/riddhi.jain6841#!/).
+- 💬 Talk to me about algorithm selection, reducing time complexities, model building, increasing accuracy, efficient data visualization and [Tableau](https://public.tableau.com/profile/riddhi.jain6841#!/).
 - 📝 Here is my [Resume](https://drive.google.com/file/d/1rz9iqzF9xwuMNCjlCrTDuunRwuvqwJ6B/view?usp=sharing) for reference.
   &nbsp;  
 
