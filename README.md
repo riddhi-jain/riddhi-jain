@@ -10,8 +10,6 @@
 - 🔭 I'm currently working on Personal Projects.
 - 👯 I'm looking to collaborate on ML projects.
 - 💬 Talk to me about algorithm selection, reducing time complexities, model building, increasing accuracy, efficient data visualization and [Tableau](https://public.tableau.com/profile/riddhi.jain6841#!/).
-- 📝 Here is my [Resume](https://drive.google.com/file/d/1rz9iqzF9xwuMNCjlCrTDuunRwuvqwJ6B/view?usp=sharing) for reference.
-  &nbsp;  
 
 
 ## 🟩 A code is more than bytes in a file 🟩
